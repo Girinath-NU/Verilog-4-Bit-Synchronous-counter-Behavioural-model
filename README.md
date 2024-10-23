@@ -1,0 +1,1 @@
+# Verilog-4-Bit-Synchronous-counter-Behavioural-model
